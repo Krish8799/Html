@@ -1,0 +1,52 @@
+<DOCTYPE html>
+  <html>
+    <body>
+      <table border="1" cellspacing="10" cellpadding="10" height="200px" width="500px" bordercolor="Orange">
+  
+       <tr bgcolor="Red">
+         <th>Roll No</th>
+         <th>Name</th>
+         <th>Contact Number</th>
+         <th>Image</th>
+       </tr>
+       
+       <tr>
+         <td>1</td>
+         <td>Devansi</td>
+         <td align=center>7474747474</td>
+        <!-- Enter Your Image Location -->
+         <td rowspan="5" align="center"><img src="WhatsApp Image 2024-07-11 at 11.53.29 AM.jpg "  style="width:80px; height:80px;"></td>
+       </tr>
+       
+       <tr>
+         <td>2</td>
+         <td>Akash</td>
+         <td align=center>7878787878</td>
+       </tr>
+       
+       <tr>
+         <td>3</td>
+         <td>Aarav</td>
+         <td align=center>9898989898</td>
+       </tr>
+       
+       <tr>
+         <td>4</td>
+         <td>Mittu</td>
+         <td align=center>7575757575</td>
+       </tr>
+       
+       <tr>
+         <td>5</td>
+         <td>Jenika</td>
+         <td align=center>8787878787</td>
+       </tr>
+       
+       <tr>
+         <th colspan="5"> School Data</th>
+       </tr>
+         
+      </table>
+    </body>
+  </html>
+</DOCTYPE>
