@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <form>
+            <table border="2" height="200" width="300">
+                <tr>
+                    <th colspan="2">Registration Form</th>
+                </tr>
+
+                <tr align="center">
+                    <td>Students Name</td>
+                    <td><input type="text" name="name" required></td>
+                </tr>
+
+                <tr align="center">
+                    <td>Father's Name</td>
+                    <td><input type="text" name="name" required></td>
+                </tr>
+
+                <tr align="center">
+                    <td>Mother's Name</td>
+                    <td><input type="text" name="name" required></td>
+                </tr>
+
+                <tr align="center">
+                    <td>Date Of Birth</td>
+                    <td><input type="date"></td>
+                </tr>
+
+                <tr align="center">
+                    <td>Email-ID</td>
+                    <td><input type="email"required></td>
+                </tr>
+
+                <tr align="center">
+                    <td>Mobile No.</td>
+                    <td><input type="number" required></td>
+                </tr>
+
+                <tr align="center">
+                    <td>Address</td>
+                    <td><input type="text"></td>
+                </tr>
+
+                <tr align="center">
+                    <td>State</td>
+                    <td><input type="text" required></td>
+                </tr>
+
+                <tr align="center">
+                    <td>City</td>
+                    <td><input type="text" name="name" required></td>
+                </tr>
+
+                <tr>
+                    <th colspan="2">
+                        <input type="submit">
+                    </th>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
