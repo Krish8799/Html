@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+        <body>
+            <form>
+            <fieldset>
+                <legend>Your Details</legend> 
+                Name:
+                <input type="text" name="name" placeholder="ENTER YOUR NAME" required>
+                <br>
+                Email:
+                <input type="email" name="email" placeholder="ENTER YOUR EMAIL" required>
+            </fieldset>
+
+            <fieldset>
+                <legend>Your Review</legend><br>
+                How did you hear about us ?
+                <select name="hear about us" required>
+                    <option>Goggle</option>
+                    <option>YouTube</option>
+                    <option>FB</option>
+                    <option>Instagram</option>
+                    <option>Twiter</option>
+                    <option>GitHub</option>
+                    
+                </select>
+                <br><br>
+
+                Would You Vist Again ?<br>
+                <input type="radio" checked name="rb1" value="Yes">Yes
+                <input type="radio" name="rb1" value="No">No
+                <input type="radio" name="rb1" value="May Be">May Not
+                <br><br>
+
+                Comments :<br>
+                <textarea rows="4" cols="50"></textarea>
+                <br><br>
+
+                <input type="checkbox" name="Sign Me Up For Email Updates">Sign Me Up For Email Updates
+                <br>
+                <input type="submit" name="submit" value="Submit Review">
+            </fieldset>
+            </form>
+        </body>
+</html>
