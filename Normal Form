@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head><h1>Input Demos</h1>
+    <body>
+        <form>
+            Email:<br>
+            <input type="email">
+            <br></br>
+
+            Password:<br>
+            <input type="password">
+            <br></br>
+
+            What is Your Gender ?<br>
+            <input type="checkbox" checked name="rb1" value="M">Male
+            <input type="checkbox" name="rb1" value="F">Female
+            <br></br>
+
+            What is Your Favorite Color ?<br>
+            <select name="select Color">
+                <option>Red</option>
+                <option>Orange</option>
+                <option>Yellow</option>
+                <option>Green</option>
+                <option>Blue</option>
+                <option>Indigo</option>
+                <option>Violet</option>
+            </select>
+            <br></br>
+
+            what's In Your Mind ?<br>
+            <textarea rows="8" cols="50" placeholder="Discribe Here . . . .">
+            </textarea>
+            <br></br>
+            <input type="submit">
+        </form>
+    </body>
+</html>
