@@ -2,7 +2,7 @@
 <html>
     <body>
         <form>
-            <table border="2" height="200" width="300">
+            <table border="2" height="400" width="500">
                 <tr>
                     <th colspan="2">Registration Form</th>
                 </tr>
