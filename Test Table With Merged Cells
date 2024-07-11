@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <table border="3" bgcolor="82EEFD">
+            <tr>
+                <th rowspan="2" height="30" width="30"></th>
+                <th colspan="2">Average</th>
+                <th rowspan="2">red eye</th>
+            </tr>
+
+            <tr>
+                <th>Height</th>
+                <th>Weight</th>
+            </tr>
+            <tr>
+                <td>Male</td>
+                <td>1.9</td>
+                <td>0.003</td>
+                <td>50%</td>
+            </tr>
+            <tr>
+                <td>Female</td>
+                <td>1.7</td>
+                <td>0.002</td>
+                <td>43%</td>
+            </tr>
+        </table>
+    </body>
+</html>
