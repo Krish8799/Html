@@ -1,0 +1,110 @@
+<DOCTYPE html>
+    <html>
+        <body>
+            <table border="2" height="200px" width="400px">
+                <tr>
+                    <th colspan="7">Grade History</th>
+                </tr>
+                <tr>
+                    <th colspan="2">Subject</th>
+                    <th>Krish Panchal</th>
+                    <th>Jaiv Makwana</th>
+                </tr>
+
+                <tr>
+                    <th rowspan="2">biology</th>
+                    <td>Practical</td>
+                    <td align="center">A</td>
+                    <td align="center">F</td>
+                </tr>
+
+                <tr>
+                    <td>Theory</td>
+                    <td align="center">A+</td>
+                    <td align="center">B</td>
+                </tr>
+
+                <tr>
+                    <th rowspan="2">Chemistry</th>
+                    <td>Practical</td>
+                    <td align="center">O+</td>
+                    <td align="center">C</td>
+                </tr>
+
+                <tr>
+                    <td>Theory</td>
+                    <td align="center">A+</td>
+                    <td align="center">F</td>
+                </tr>
+
+                <tr>
+                    <th rowspan="2">Physics</th>
+                    <td>Practical</td>
+                    <td align="center">O+</td>
+                    <td align="center">C</td>
+                </tr>
+
+                <tr>
+                    <td>Theory</td>
+                    <td align="center">O+</td>
+                    <td align="center">F</td>
+                </tr>
+                <tr>
+                    <th>Total :</th>
+                    <th></th>
+                    <th>9.16 CPI</th>
+                    <th>3.23 CPI</th>
+                </tr>
+                    
+                <tr>
+                    <th colspan="9" height="18" width="10"></th>
+                </tr>
+
+                <table border="2" height="200px" width="400px"><br><br><br><br>
+                    <tr>
+                        <th colspan="2" align="center">Grade</th>
+                    </tr>
+                    <tr>
+                        <td align="center">O+ Grade</td>
+                        <td align="center">Outstanding</td>
+                    </tr>
+                    <tr>
+                        <td align="center">O Grade</td>
+                        <td align="center">Outstanding</td>
+                    </tr>
+                    <tr>
+                        <td align="center">A+</td>
+                        <td align="center">90% - 80%</td>
+                    </tr>
+                    <tr>
+                        <td align="center">A</td>
+                        <td align="center">80% - 70%</td>
+                    </tr>
+                    <tr>
+                        <td align="center">B+</td>
+                        <td align="center">70% - 60%</td>
+                    </tr>
+                    <tr>
+                        <td align="center">B</td>
+                        <td align="center">60% - 50%</td>
+                    </tr>
+                    <tr>
+                        <td align="center">C+</td>
+                        <td align="center">50% - 40%</td>
+                    </tr>
+                    <tr>
+                        <td align="center">C</td>
+                        <td align="center">40% - 30%</td>
+                    </tr>
+                    <tr>
+                        <td align="center">D</td>
+                        <td align="center">30% - 20%</td>
+                    </tr>
+                    <tr>
+                        <td align="center">F</td>
+                        <td align="center">FAIL</td>
+                    </tr>
+                </table>
+            </table>
+        </body>
+    </html>
